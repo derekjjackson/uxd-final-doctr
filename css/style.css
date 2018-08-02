@@ -172,7 +172,7 @@ a:focus{
   outline-width:.5rem;
   font-size:1.2rem;   
   font-weight:bold;
-  box-shadow: 0rem 0rem .8rem #F7AB5E;
+  box-shadow: 0rem 0rem 1.5rem #F7AB5E;
   transition: ease-in-out 0.2s;
   
 }
@@ -201,7 +201,7 @@ input:focus{
   border:#F7AB5E solid .3rem; 
   font-size:1.2rem;   
   font-weight:bold;
-  box-shadow: 0rem 0rem .8rem #F7AB5E;
+  box-shadow: 0rem 0rem 1.8rem #F7AB5E;
   transition: ease-in-out 0.2s;
   
 }
@@ -212,6 +212,7 @@ button:focus{
   font-size:4rem;   
   transition: ease-in-out 0.2s;
   border:none;
+  box-shadow: 0rem 0rem .8rem #F7AB5E;
 }
 button:hover{
   outline-color: #F7AB5E; 
@@ -240,7 +241,7 @@ a#skip:focus  {
   border:#F7AB5E solid .2rem;
   border-radius:.5rem;
   padding:0 1rem;
-  box-shadow: 0rem 0rem .5rem #F7AB5E; 
+  box-shadow: 0rem 0rem .8rem #F7AB5E; 
   visibility:visible;
   transition: ease-in-out 0.4s;
 }
