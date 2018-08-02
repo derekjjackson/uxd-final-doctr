@@ -210,3 +210,25 @@ button:hover{
     border-top: solid #F7AB5E .3rem;
   border-bottom: solid #F7AB5E .3rem;
 }
+
+a#skip{
+  color:#16069B;
+  text-decoration:none;
+  float:left;
+  position:absolute;
+  margin-left:-4rem;
+  
+}
+
+a#skip:focus  {
+  font-size:1rem;
+  outline:none;
+  color:#fff;
+  text-decoration:none;
+  border:#F7AB5E solid .2rem;
+  border-radius:.5rem;
+  padding:0 1rem;
+  box-shadow: 0rem 0rem .5rem #F7AB5E; 
+  visibility:visible;
+  transition: ease-in-out 0.4s;
+}
