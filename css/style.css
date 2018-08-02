@@ -172,6 +172,7 @@ a:focus{
   outline-width:.5rem;
   font-size:1.2rem;   
   font-weight:bold;
+  box-shadow: 0rem 0rem .8rem #F7AB5E;
   transition: ease-in-out 0.2s;
   
 }
@@ -200,6 +201,7 @@ input:focus{
   border:#F7AB5E solid .3rem; 
   font-size:1.2rem;   
   font-weight:bold;
+  box-shadow: 0rem 0rem .8rem #F7AB5E;
   transition: ease-in-out 0.2s;
   
 }
